@@ -6,11 +6,8 @@
 
 <div align="center">
 
-<img
-width="100%"
-alt="B. Praveen Kumar - Java Full Stack Developer"
-src="https://github.com/user-attachments/assets/082b8d21-cce7-4b48-98b1-a07c8611659a"
-/>
+
+<img width="1200" height="300" alt="download (3)" src="https://github.com/user-attachments/assets/cf81ef2b-3634-42c2-80cc-7c8090cc61d9" />
 
 <br><br>
 
