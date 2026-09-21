@@ -404,3 +404,10 @@ If you're interested in **Java, Spring Boot, Full Stack Development, Generative 
 **Build. Learn. Contribute.**
 
 </div>
+
+## Note: 🔄 Account Migration
+
+I previously maintained my projects under another GitHub account.
+Due to losing access to that account, I created this account:
+
+👉 @bpraveenkumar5
