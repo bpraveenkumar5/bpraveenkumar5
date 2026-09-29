@@ -5,9 +5,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
 <img width="1200" height="300" alt="download (3)" src="https://github.com/user-attachments/assets/cf81ef2b-3634-42c2-80cc-7c8090cc61d9" />
-
 <br><br>
 
 # 👋 Hi, I'm B. Praveen Kumar
